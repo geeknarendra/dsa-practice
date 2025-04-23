@@ -67,10 +67,7 @@ class Solution:
 #             if cnt==largestSize:
 #                 cntOfGroup+=1
 #         return cntOfGroup
-        
-   
-        
-    
+         
 ```
 
 
@@ -78,7 +75,6 @@ class Solution:
 Copy and paste directly into LeetCode custom test editor:
 
 ```
-
 99
 29
 38
@@ -87,5 +83,4 @@ Copy and paste directly into LeetCode custom test editor:
 9999
 1000
 5566
-
 ```
