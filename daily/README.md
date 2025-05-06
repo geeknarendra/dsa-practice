@@ -6,6 +6,7 @@ This folder contains the problems that I am solving daily as part of my practice
 
 | Date       | Problem Number | Problem Name                   | LeetCode Problem Link                                           | Solution File Link                                          |
 |------------|----------------|--------------------------------|-----------------------------------------------------------------|------------------------------------------------------------|
+| 2025-05-06 | 1920 | Build Array From Permutation | [LeetCode Problem](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06) | [Solution File](./2025-05-06_1920_Build_Array_From_Permutation.md) |
 | 2025-05-05 | 790 | Domino And Tromino Tiling | [LeetCode Problem](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=daily-question&envId=2025-05-05) | [Solution File](./2025-05-05_790_Domino_And_Tromino_Tiling.md) |
 | 2025-05-04 | 1128 | Number Of Equivalent Domino Pairs | [LeetCode Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=daily-question&envId=2025-05-04) | [Solution File](./2025-05-04_1128_Number_Of_Equivalent_Domino_Pairs.md) |
 | 2025-05-03 | 1007 | Minimum Domino Rotations For Equal Row | [LeetCode Problem](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/?envType=daily-question&envId=2025-05-03) | [Solution File](./2025-05-03_1007_Minimum_Domino_Rotations_For_Equal_Row.md) |
@@ -20,6 +21,7 @@ This folder contains the problems that I am solving daily as part of my practice
 ## How to Contribute
 
 You can contribute by forking the repository and adding more problems or solutions to the table.
+
 
 
 
