@@ -6,6 +6,7 @@ This folder contains the problems that I am solving daily as part of my practice
 
 | Date       | Problem Number | Problem Name                   | LeetCode Problem Link                                           | Solution File Link                                          |
 |------------|----------------|--------------------------------|-----------------------------------------------------------------|------------------------------------------------------------|
+| 2025-05-12 | 2094 | Finding 3 Digit Even Numbers | [LeetCode Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12) | [Solution File](./2025-05-12_2094_Finding_3_Digit_Even_Numbers.md) |
 | 2025-05-11 | 1550 | Three Consecutive Odds | [LeetCode Problem](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11) | [Solution File](./2025-05-11_1550_Three_Consecutive_Odds.md) |
 | 2025-05-06 | 1920 | Build Array From Permutation | [LeetCode Problem](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06) | [Solution File](./2025-05-06_1920_Build_Array_From_Permutation.md) |
 | 2025-05-05 | 790 | Domino And Tromino Tiling | [LeetCode Problem](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=daily-question&envId=2025-05-05) | [Solution File](./2025-05-05_790_Domino_And_Tromino_Tiling.md) |
@@ -22,6 +23,7 @@ This folder contains the problems that I am solving daily as part of my practice
 ## How to Contribute
 
 You can contribute by forking the repository and adding more problems or solutions to the table.
+
 
 
 
