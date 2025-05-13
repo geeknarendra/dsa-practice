@@ -6,6 +6,7 @@ This folder contains the problems that I am solving daily as part of my practice
 
 | Date       | Problem Number | Problem Name                   | LeetCode Problem Link                                           | Solution File Link                                          |
 |------------|----------------|--------------------------------|-----------------------------------------------------------------|------------------------------------------------------------|
+| 2025-05-13 | 3335 | Total Characters In String After Transformations I | [LeetCode Problem](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/?envType=daily-question&envId=2025-05-13) | [Solution File](./2025-05-13_3335_Total_Characters_In_String_After_Transformations_I.md) |
 | 2025-05-12 | 2094 | Finding 3 Digit Even Numbers | [LeetCode Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12) | [Solution File](./2025-05-12_2094_Finding_3_Digit_Even_Numbers.md) |
 | 2025-05-11 | 1550 | Three Consecutive Odds | [LeetCode Problem](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11) | [Solution File](./2025-05-11_1550_Three_Consecutive_Odds.md) |
 | 2025-05-06 | 1920 | Build Array From Permutation | [LeetCode Problem](https://leetcode.com/problems/build-array-from-permutation/description/?envType=daily-question&envId=2025-05-06) | [Solution File](./2025-05-06_1920_Build_Array_From_Permutation.md) |
