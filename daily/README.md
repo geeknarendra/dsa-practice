@@ -6,6 +6,7 @@ This folder contains the problems that I am solving daily as part of my practice
 
 | Date       | Problem Number | Problem Name                   | LeetCode Problem Link                                           | Solution File Link                                          |
 |------------|----------------|--------------------------------|-----------------------------------------------------------------|------------------------------------------------------------|
+| 2025-05-30 | 2359 | Find Closest Node To Given Two Nodes | [LeetCode Problem](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30) | [Solution File](./2025-05-30_2359_Find_Closest_Node_To_Given_Two_Nodes.md) |
 | 2025-05-27 | 2894 | Divisible And Non Divisible Sums Difference | [LeetCode Problem](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/?envType=daily-question&envId=2025-05-27) | [Solution File](./2025-05-27_2894_Divisible_And_Non_Divisible_Sums_Difference.md) |
 | 2025-05-13 | 3335 | Total Characters In String After Transformations I | [LeetCode Problem](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/description/?envType=daily-question&envId=2025-05-13) | [Solution File](./2025-05-13_3335_Total_Characters_In_String_After_Transformations_I.md) |
 | 2025-05-12 | 2094 | Finding 3 Digit Even Numbers | [LeetCode Problem](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-12) | [Solution File](./2025-05-12_2094_Finding_3_Digit_Even_Numbers.md) |
@@ -25,6 +26,7 @@ This folder contains the problems that I am solving daily as part of my practice
 ## How to Contribute
 
 You can contribute by forking the repository and adding more problems or solutions to the table.
+
 
 
 
